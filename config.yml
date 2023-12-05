@@ -11,12 +11,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Mini CV
-          url: mini_cv/
-          weight: 1
         - name: Projects
           url: projects/
-          weight: 2
+          weight: 1
 
 params:
     description: "Soon to be a PhD student @Inria & @CriteoAILab."
@@ -50,8 +47,6 @@ params:
           imageHeight: 160
           imageTitle: Mélissa Tamine
           buttons:
-            - name: Mini CV
-              url: mini_cv/
             - name: Projects
               url: projects/
     socialIcons:
