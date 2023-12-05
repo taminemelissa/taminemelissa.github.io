@@ -50,8 +50,8 @@ params:
           imageHeight: 160
           imageTitle: Mélissa Tamine
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Mini CV
+              url: mini_cv/
             - name: Projects
               url: projects/
     socialIcons:
