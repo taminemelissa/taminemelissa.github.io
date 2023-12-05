@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Mini CV
+          url: mini_cv/
           weight: 1
         - name: Projects
           url: projects/
