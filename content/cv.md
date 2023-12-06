@@ -11,7 +11,7 @@ description: "Mélissa Tamine"
 
 ---
 
-You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf).
+You can find an extended version of my CV [here](../static/CV_TAMINE_Mélissa.pdf).
 
 ## Education
 
@@ -59,13 +59,13 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 <div id="education-grid">
     <div>
-        <img class="logo" src="/static/education/logo_IMT_Atlantique.png" alt="IMT Atlantique">
+        <img class="logo" src="../static/education/logo_IMT_Atlantique.png" alt="IMT Atlantique">
         <div class="institution">IMT Atlantique</div>
         <div class="degree">Master of Engineering</div>
         <div class="date">2019 - 2021</div>
     </div>
     <div>
-        <img class="logo" src="/static/education/logo_ENSAE.png" alt="ENSAE Paris">
+        <img class="logo" src="../static/education/logo_ENSAE.png" alt="ENSAE Paris">
         <div class="institution">ENSAE Paris</div>
         <div class="degree">Master of Engineering</div>
         <div class="date">2021 - 2023</div>
@@ -73,6 +73,7 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 </div>
 
 </div>
+
 
 ---
 
@@ -122,21 +123,21 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 <div id="prof-grid">
     <div>
-        <img class="logo" src="/static/experience/huawei_logo.png" alt="Huawei Technologies">
+        <img class="logo" src="../static/experience/huawei_logo.png" alt="Huawei Technologies">
         <div class="institution">Huawei Technologies</div>
         <div class="degree">Machine learning Scientist intern</div>
         <div class="city">Amsterdam, Netherlands</div>
         <div class="date">April 2021 - July 2021</div>
     </div>
     <div>
-        <img class="logo" src="/static/experience/nokia_logo.png" alt="Nokia Bell Labs">
+        <img class="logo" src="../static/experience/nokia_logo.png" alt="Nokia Bell Labs">
         <div class="institution">Nokia Bell Labs</div>
         <div class="degree">Research Scientist intern</div>
         <div class="city">Nozay, France</div>
         <div class="date">May 2022 - July 2022</div>
     </div>
     <div>
-        <img class="logo" src="/static/experience/criteo_logo.png" alt="Criteo AI Lab">
+        <img class="logo" src="../static/experience/criteo_logo.png" alt="Criteo AI Lab">
         <div class="institution">Criteo AI Lab</div>
         <div class="degree">Research Scientist intern</div>
         <div class="city">Paris, France</div>
@@ -178,23 +179,23 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 <div id="skills-grid">
     <div>
-        <img class="logo" src="/static/skills/pytorch.png" alt="PyTorch">
+        <img class="logo" src="../static/skills/pytorch.png" alt="PyTorch">
         <div class="title">PyTorch</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/tensorflow.png" alt="Tensorflow">
+        <img class="logo" src="../static/skills/tensorflow.png" alt="Tensorflow">
         <div class="title">Tensorflow</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/keras.png" alt="Keras">
+        <img class="logo" src="../static/skills/keras.png" alt="Keras">
         <div class="title">Keras</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/scikitlearn.png" alt="Scikit Learn">
+        <img class="logo" src="../static/skills/scikitlearn.png" alt="Scikit Learn">
         <div class="title">Scikit Learn</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/seaborn.png" alt="Seaborn">
+        <img class="logo" src="../static/skills/seaborn.png" alt="Seaborn">
         <div class="title">Seaborn</div>
     </div>
 </div>
@@ -229,24 +230,24 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 <div id="skills-grid">
     <div>
-        <img class="logo" src="/static/skills/python.png" alt="Python Language">
+        <img class="logo" src="../static/skills/python.png" alt="Python Language">
         <div class="title">Python</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/java.png" alt="Java Language">
+        <img class="logo" src="../static/skills/java.png" alt="Java Language">
         <div class="title">Java</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/julia.png" alt="Julia Language">
-        <div class="title">JavaScript</div>
+        <img class="logo" src="../static/skills/julia.png" alt="Julia Language">
+        <div class="title">Julia</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/R.png" alt="R Language">
-        <div class="title">Kotlin</div>
+        <img class="logo" src="../static/skills/R.png" alt="R Language">
+        <div class="title">R</div>
     </div>
     <div>
-        <img class="logo" src="/static/skills/matlab.png" alt="Matlab Language">
-        <div class="title">Kotlin</div>
+        <img class="logo" src="../static/skills/matlab.png" alt="Matlab Language">
+        <div class="title">Matlab</div>
     </div>
 </div>
 
@@ -280,12 +281,12 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 <div id="skills-grid">
     <div>
-        <img class="logo" src="/static/skills/docker.png" alt="Docker">
-        <div class="title">Docker</div>
-    </div>
-    <div>
-        <img class="logo" src="/static/skills/git.png" alt="Git">
+        <img class="logo" src="../static/skills/git.png" alt="Git">
         <div class="title">Git</div>
+    </div>  
+    <div>
+        <img class="logo" src="../static/skills/docker.png" alt="Docker">
+        <div class="title">Docker</div>
     </div>
 </div>
 
@@ -293,6 +294,6 @@ You can find an extended version of my CV [here](/static/CV_TAMINE_Mélissa.pdf)
 
 ## Projects
 
-There is a list of my projects with a brief description about them in the [Projects](/projects) page.
+There is a list of my projects with a brief description about them in the [projects](/projects) page.
 
 ---
