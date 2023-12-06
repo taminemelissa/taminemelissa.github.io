@@ -59,7 +59,7 @@ You can find an extended version of my CV [here](../static/CV_TAMINE_Mélissa.pd
 
 <div id="education-grid">
     <div>
-        <img class="logo" src="../static/education/logo_IMT_Atlantique.png" alt="IMT Atlantique">
+        <img class="logo" src="education/logo_IMT_Atlantique.png" alt="IMT Atlantique">
         <div class="institution">IMT Atlantique</div>
         <div class="degree">Master of Engineering</div>
         <div class="date">2019 - 2021</div>
