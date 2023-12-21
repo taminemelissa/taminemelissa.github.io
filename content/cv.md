@@ -61,13 +61,13 @@ You can find an extended version of my CV [here.](/CV_TAMINE_Mélissa.pdf)
     <div>
         <img class="logo" src="/education/logo_IMT_Atlantique.png" alt="IMT Atlantique">
         <div class="institution">IMT Atlantique</div>
-        <div class="degree">Master of Engineering</div>
+        <div class="degree">Engineering degree</div>
         <div class="date">2019 - 2021</div>
     </div>
     <div>
         <img class="logo" src="/education/logo_ENSAE.png" alt="ENSAE Paris">
         <div class="institution">ENSAE Paris</div>
-        <div class="degree">Master of Engineering</div>
+        <div class="degree">Engineering degree</div>
         <div class="date">2021 - 2023</div>
     </div>
 </div>
