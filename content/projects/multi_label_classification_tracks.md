@@ -6,7 +6,7 @@ show_date: false
 url: /multi_label_classification_tracks/
 aliases: 
     - /multi_label_classification_tracks.html
-tags: ["Contrastive Learning", "Audio", "Text Localization", "Natural Language Processing", "Persian"]
+tags: ["Classification", "Multilabel", "Audio"]
 author: "Mélissa Tamine, in a group work"
 summary: " The project aimed to build a performing model associating genre labels with each music title in a database using audio signal data and listener-related information, operating within a multilabel classification framework." 
 cover:
