@@ -36,16 +36,16 @@ Music recommendation systems are pivotal in the escalating success of online mus
 
 ##### Collaborators
 
-This work has been done in a group work with [Zineb Bentires](https://www.linkedin.com/in/zineb-bentires-1b9191195/), [Sirine Louati](https://www.linkedin.com/in/sirine-louati-465932179/?originalSubdomain=fr), and [Louise Sirven](https://www.linkedin.com/in/louise-sirven-29066a260/), and under supervision of [Léa Briand](https://www.linkedin.com/in/l%C3%A9a-briand-732291106/) from [Deezer Paris](https://www.deezer.com/) as a part of _Applied statistics_ course at ENSAE Paris.
+This work has been done in a group work with [Zineb Bentires](https://www.linkedin.com/in/zineb-bentires-1b9191195/), [Sirine Louati](https://www.linkedin.com/in/sirine-louati-465932179/?originalSubdomain=fr), and [Louise Sirven](https://www.linkedin.com/in/louise-sirven-29066a260/), and under supervision of [Léa Briand](https://www.linkedin.com/in/l%C3%A9a-briand-732291106/) from [Deezer Paris](https://www.deezer.com/) as a part of the _Applied statistics_ course at ENSAE Paris.
 
 ---
 
 ##### References
 
-[1] Koren, Y., Bell, R. et Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8):30–37.
+[1] Y. Koren, R. Bell and C. Volinsky, "Matrix Factorization Techniques for Recommender Systems," in Computer, vol. 42, no. 8, pp. 30-37, Aug. 2009, doi: 10.1109/MC.2009.263.
 
-[2] McKay, C. et Fujinaga, I. (2006). Musical genre classification : Is it worth pursuing and how can it be improved ?
+[2] McKay, Cory & Fujinaga, Ichiro. (2006). Musical Genre Classification: Is It Worth Pursuing and How Can It be Improved?. 
 
 [3] Oramas, S., Nieto, O., Barbieri, F. et Serra, X. (2017). Multi-label music genre classification from audio, text, and images using deep features.
 
-[4] Choi, K., Fazekas, G. et Sandler, M. B. (2016). Automatic tagging using deep convolutional neural networks. ArXiv, abs/1606.00298
+[4] Choi, K., Fazekas, G., & Sandler, M. (2016). Automatic tagging using deep convolutional neural networks.
