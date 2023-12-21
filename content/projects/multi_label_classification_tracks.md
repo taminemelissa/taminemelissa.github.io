@@ -1,7 +1,7 @@
 ---
 title: "Multi-label Classification of Tracks" 
 date: 2022-05-15
-order: 2
+order: 3
 show_date: false
 url: /multi_label_classification_tracks/
 aliases: 
@@ -33,7 +33,7 @@ Music recommendation systems are pivotal in the escalating success of online mus
 
 ##### Collaborators
 
-This work has been done in a group work with [Zineb Bentires](https://www.linkedin.com/in/zineb-bentires-1b9191195/), [Sirine Louati](https://www.linkedin.com/in/sirine-louati-465932179/?originalSubdomain=fr), and [Louise Sirven](https://www.linkedin.com/in/louise-sirven-29066a260/), and under the supervision of [Léa Briand](https://www.linkedin.com/in/l%C3%A9a-briand-732291106/) from [Deezer Paris](https://www.deezer.com/) as a part of the _Applied statistics_ course at ENSAE Paris.
+This work has been done in a group work with [Zineb Bentires](https://www.linkedin.com/in/zineb-bentires-1b9191195/), [Sirine Louati](https://www.linkedin.com/in/sirine-louati-465932179/?originalSubdomain=fr), and [Louise Sirven](https://www.linkedin.com/in/louise-sirven-29066a260/), under the supervision of [Léa Briand](https://www.linkedin.com/in/l%C3%A9a-briand-732291106/) from [Deezer Paris](https://www.deezer.com/) as a part of the _Applied statistics_ course at ENSAE Paris.
 
 ---
 

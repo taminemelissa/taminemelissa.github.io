@@ -32,7 +32,7 @@ This tutorial provides a comprehensive guide on leveraging the OTT-JAX toolbox t
 
 ##### Collaborators
 
-This work has been done in a group work with [Arthur Katossky](https://www.linkedin.com/in/arthur-katossky/) and [Hélène Rondey](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-r-98401a1b7/), and under the supervision of [Marco Cuturi](https://marcocuturi.net/) from [Apple](https://machinelearning.apple.com/) as a part of the _Optimal Transport_ course at ENSAE Paris.
+This work has been done in a group work with [Arthur Katossky](https://www.linkedin.com/in/arthur-katossky/) and [Hélène Rondey](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-r-98401a1b7/), under the supervision of [Marco Cuturi](https://marcocuturi.net/) from [Apple](https://machinelearning.apple.com/) as a part of the _Optimal Transport_ course at ENSAE Paris.
 
 ---
 

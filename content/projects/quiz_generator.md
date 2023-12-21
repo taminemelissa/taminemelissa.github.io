@@ -1,7 +1,7 @@
 ---
 title: "Quiz Generator" 
 date: 2021-12-22
-order: 3
+order: 4
 show_date: false
 url: /quiz_generator/
 aliases: 
@@ -33,7 +33,7 @@ This study addressed the challenge of devising a language model pipeline profici
 
 ##### Collaborators
 
-This work has been done in a group work with [Adrien Servière](https://www.linkedin.com/in/adrien-serviere/), and under the supervision of [Kim Antunez](https://www.linkedin.com/in/kantunez/?originalSubdomain=fr) from [INSEE](https://www.insee.fr/fr/accueil) as a part of the _Python Programming_ course at ENSAE Paris.
+This work has been done in a group work with [Adrien Servière](https://www.linkedin.com/in/adrien-serviere/), under the supervision of [Kim Antunez](https://www.linkedin.com/in/kantunez/?originalSubdomain=fr) from [INSEE](https://www.insee.fr/fr/accueil) as a part of the _Python Programming_ course at ENSAE Paris.
 
 ---
 
