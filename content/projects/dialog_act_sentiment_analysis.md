@@ -12,7 +12,7 @@ summary: "This work presents an approach for fine-tuning pre-trained language mo
 cover:
     image: "/projects/dialog_act_sentiment_analysis.png"
     alt: ""
-    relative: true
+    relative: true 
 
 ---
 
