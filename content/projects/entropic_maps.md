@@ -8,7 +8,7 @@ aliases:
     - /entropic_maps.html
 tags: ["Optimal Transport", "Entropic Maps"]
 author: "Mélissa Tamine, in a group work"
-summary: "This tutorial shows you how to use the OTT-JAX toolbox to implement ideas from Entropic Estimation of Optimal Transport Maps."
+summary: "This tutorial shows how to use the OTT-JAX toolbox to implement ideas from Entropic Estimation of Optimal Transport Maps."
 cover:
     image: "/projects/entropic_maps.png#center"
     alt: ""
