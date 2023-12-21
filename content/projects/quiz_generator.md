@@ -21,7 +21,7 @@ cover:
 ##### Links
 
 + [GitHub](https://github.com/taminemelissa/multi-label-classification)
-+ [Notebook](https://github.com/taminemelissa/quiz-generator/blob/main/final-project.ipynb)
++ [Notebook](https://github.com/taminemelissa/quiz-generator/blob/main/final-project.ipynb) [French]
 
 ---
 
