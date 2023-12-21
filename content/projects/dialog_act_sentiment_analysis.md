@@ -10,7 +10,7 @@ tags: ["Natural Language Processing", "Classification", "Dialog Act", "Sentiment
 author: "Mélissa Tamine, in a group work"
 summary: "This work presents an approach for fine-tuning pre-trained language models to perform dialog act classification or sentiment/emotion analysis."
 cover:
-    image: "/projects/dialog_act_sentiment_analysis.png"
+    image: "/projects/da_sa.png"
     alt: ""
     relative: true 
 
