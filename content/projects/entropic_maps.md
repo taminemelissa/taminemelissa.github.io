@@ -20,7 +20,7 @@ cover:
 
 ##### Links
 
-+ [Final notebook](https://deepnote.com/workspace/arthur-katossky-c8b04872-c152-4d8d-b769-735909f17e65/project/ENSAE-optimal-transport-assignment-435a3bc7-4610-4ecb-ac51-41742511e0dc/notebook/Notebook%201-d71f06ca977044cc96ed258a2c06b4c4)
++ [Tutorial](https://deepnote.com/workspace/arthur-katossky-c8b04872-c152-4d8d-b769-735909f17e65/project/ENSAE-optimal-transport-assignment-435a3bc7-4610-4ecb-ac51-41742511e0dc/notebook/Notebook%201-d71f06ca977044cc96ed258a2c06b4c4)
 
 ---
 

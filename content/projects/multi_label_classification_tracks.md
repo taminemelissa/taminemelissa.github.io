@@ -21,7 +21,7 @@ cover:
 ##### Links
 
 + [GitHub](https://github.com/taminemelissa/multi-label-classification)
-+ [Final report](/projects/memoire_statistique_appliquee.pdf)
++ [Report](/projects/memoire_statistique_appliquee.pdf)
 
 ---
 
