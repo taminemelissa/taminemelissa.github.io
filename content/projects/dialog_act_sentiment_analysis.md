@@ -33,7 +33,7 @@ This work presents an approach for fine-tuning pre-trained language models to pe
 
 ##### Collaborators
 
-This work has been done in a group work with [Théo Lorthios](https://www.linkedin.com/in/th%C3%A9o-lorthios-963b3b166/), under the supervision of [Pierre Colombo](https://pierrecolombo.github.io/) as a part of the _Natural Language Processing_ course at ENSAE Paris.
+This work has been done in a group work with [Théo Lorthios](https://www.linkedin.com/in/th%C3%A9o-lorthios-963b3b166/), under the supervision of [Pierre Colombo](https://pierrecolombo.github.io/) as part of the _Natural Language Processing_ course at ENSAE Paris.
 
 ---
 
