@@ -19,7 +19,7 @@ menu:
           weight: 2
 
 params:
-    description: "Soon to be a PhD student @Inria & @CriteoAILab."
+    description: "PhD student @Inria & @CriteoAILab."
     author: Mélissa Tamine
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Mélissa Tamine
-          subtitle: "Soon to be a PhD student @Inria & @CriteoAILab."
+          subtitle: "PhD student @Inria & @CriteoAILab."
           imageUrl: "Photo_TAMINE_Mélissa.png"
           imageWidth: 160
           imageHeight: 160
