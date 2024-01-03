@@ -145,7 +145,7 @@ You can find an extended version of my CV [here.](/CV_TAMINE_Mélissa.pdf)
     </div>
     <div>
         <img class="logo" src="/experience/criteo_inria_logo.png" alt="Criteo AI Lab/Inria">
-        <div class="institution">Criteo AI Lab/Inria FairPlay</div>
+        <div class="institution">Criteo AI Lab & Inria</div>
         <div class="degree">PhD Student</div>
         <div class="city">Paris, France</div>
         <div class="date">Jan 2024 - Jan 2027</div>
