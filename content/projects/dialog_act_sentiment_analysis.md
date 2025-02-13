@@ -18,10 +18,9 @@ cover:
 
 ---
 
-##### Links
+##### Link
 
 + [GitHub](https://github.com/taminemelissa/intent-classification)
-+ [Paper](https://openreview.net/pdf?id=GVofcQ5Obx)
 
 ---
 
